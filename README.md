@@ -6,7 +6,7 @@
 
 Projeto em desenvolvimento.
 
-[🔗 Clique aqui para acessar o projeto](https://pedrosouza09.github.io/Projeto_GTA_Pedro/)
+[🔗 Clique aqui para acessar o projeto](https://pedrosouza09.github.io/Projeto_Mini_Portfolio_Pedro/)
 
 ## 🛠 Tecnologias
 
